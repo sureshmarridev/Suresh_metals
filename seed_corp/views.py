@@ -13,3 +13,6 @@ def empty(request):
 
 def login(request):
     return render(request, 'seed_corp/login.html')
+
+def summary(request):
+    return render(reqest, 'seed_corp/summary.html')
