@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11903b71-82af-4d45-b78a-bf38f1256cf1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed_corp/templates/seed_corp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/seed_corp/templates/seed_corp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_corp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/seed_corp/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546979105783</updated>
       <workItem from="1573006043443" duration="33000" />
+      <workItem from="1586295602431" duration="470000" />
     </task>
     <servers />
   </component>
@@ -87,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
